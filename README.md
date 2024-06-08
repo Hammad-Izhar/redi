@@ -22,6 +22,7 @@ Algorithm Implementations
 -   Steiner Tree Approximation?
 -   TSP Approximations?
 -   Planar Verification
+-   Eulerian Tour Computation
 
 ### Priority Queues
 
